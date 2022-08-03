@@ -1,8 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
         // Задание 3
-
         int bananas = 5;
         int bananaWeight = 80;
         int milk = 200;
@@ -17,6 +15,7 @@ public class Main {
 
         System.out.println("Вес спорт-завтрака в граммах " + mixedWeightInGramm + ".");
         System.out.println("Вес спорт-завтрака в килограммах " + mixedWeightInKg + ".");
+
 
     }
 }
