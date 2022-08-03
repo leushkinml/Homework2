@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
+        // Задание 3
+
         int bananas = 5;
         int bananaWeight = 80;
         int milk = 200;
